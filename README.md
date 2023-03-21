@@ -1,6 +1,6 @@
 # BMICalculator
 This is a Python program that creates a Body Mass Index (BMI) calculator using the graphical user interface (GUI) library Tkinter.
-////Video Tutorial from DJ Oamen: https://www.google.com/search?q=bmi+calculator+dj+oamen&oq=bmi+calculator+dj+oamen&aqs=chrome..69i57j33i160l2.14292j1j7&sourceid=chrome&ie=UTF-8#fpstate=ive&vld=cid:930189d8,vid:23_93SXvCpc
+////Video Tutorial from DJ Oamen: https://www.youtube.com/watch?v=HJqRtlJBG-c
 
 ###Edited by JC Villa:  Font, Colors, BottomFrame, test_log/ReadMe 
 
